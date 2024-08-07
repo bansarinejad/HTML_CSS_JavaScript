@@ -1,1 +1,1 @@
-# HTML_CSS_Javascript practice codes
+# HTML, CSS and JavaScript practice codes
